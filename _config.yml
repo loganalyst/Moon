@@ -1,7 +1,7 @@
 # Site
 title:              loganalysis.ai
-bio:                'Advanced techniques for log file analysis'
-description:        "loganalysis.ai is an expert site for  "
+bio:                'Expert site for understanding systems from log files'
+description:        "Expert site for understanding systems from log files"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
