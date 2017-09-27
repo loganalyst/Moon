@@ -4,8 +4,8 @@ bio:                'Expert site for understanding systems from log files'
 description:        "Expert site for understanding systems from log files"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo_1_small.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo_2_small.png'
+background:         'assets/img/background_1_small.png'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://loganalyst.github.io/Moon
